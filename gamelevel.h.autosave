@@ -1,0 +1,39 @@
+#ifndef GAMELEVEL_H
+#define GAMELEVEL_H
+
+class chapter{
+    
+};
+
+class chap1:public chapter{
+    
+};
+
+class chap2:public chapter{
+    
+};
+
+class chap3:public chapter{
+    
+};
+
+class chap4:public chapter{
+    
+};
+
+class chap5:public chapter{
+    
+};
+
+class chap6:public chapter{
+    
+};
+
+class chap7:public chapter{
+    
+};
+
+class chap8:public chapter{
+    
+};
+#endif // GAMELEVEL_H
